@@ -27,7 +27,7 @@ Keep an eye on our repository for the official release, detailed documentation, 
 Have feedback, suggestions, or questions?
 
 - [Visit our Website](https://pulsar67.com)
-- [Contact Support](https://pulsar67.com/support)
+- [Contact Support](https://pulsar67.com/contact)
 
 Let's build something amazing together!
 
